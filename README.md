@@ -32,7 +32,8 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
-| Sashank Baratam | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> | 
+| Sashank Baratam | sashankbaratam903 | <https://sashankbaratam903.github.io/practice_repo/> |
+| Drew Eddy | dpe5068 | <https://dpe5068.github.io/GitHub-Assignment-1/> |
 <br>
 
 # Integration of RStudio with Git
